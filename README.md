@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm a student who likes programming.
 
+I also like *Pet Shop Boys*, finding vulnerabilities in apps, and computer games.
+My favourite game at the time of writing is *Dead by Daylight*, but I also play *CS:GO* and *TF2*
+
+I mostly program in `C, C++, C#, HTML/CSS/JS and Python`
 <!--
 **t0rre/t0rre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
